@@ -42,8 +42,8 @@ Empower humanity for the AI future​
 
 | Id | Version | Link |
 | --- | --- | --- |
-| 1 | `1.0` | `Pending` |
-| 2 | `1.1` | `Pending` |
+| 1 | `1.0` | [Here](SP/ORACLES_FSP_Q124_v1.0.1.pdf) |
+| 2 | `1.1` | [Here](SP/ORACLES_FSP_Q124_v1.1.2.pdf) |
 | 3 | `Lastest` | `Pending` |
 
 ---
