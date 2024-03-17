@@ -2,7 +2,7 @@
 
 ---
 
-# Welcome to the AI Curious Minds community!
+# Welcome to the AI Curious Minds community repository! 🗂️✨
 
 ---
 
@@ -12,19 +12,38 @@ We are a dynamic, inclusive community of AI enthusiasts, learners, professionals
 
 ---
 
-### 🎯 Our Mission
+##  Vision 🔭
 
-Our mission is to empower humanity for the AI future, paving the way for a future symbiosis between humans and machines. 🤖 👤
+Human-Machine Symbiosis​
+
+--- 
+
+##  Mission 🚀
+
+Empower humanity for the AI future​
+
+--- 
+
+##  Values 🌱
+
+- Community-Centric Approach.​
+
+- Continuous Learning.​
+
+- Inclusive Collaboration.​
+
+- Knowledge with responsibility.​
+
+- Ethical Innovation.
 
 ---
 
-### 🗒 Strategy & Planning
+## Strategy Plan 📅
 
->[Strategy & Planning](Strategy&Planing)
+| Id | Version | Link |
+| --- | --- | --- |
+| 1 | `1.0` | `Pending` |
+| 2 | `1.1` | `Pending` |
+| 3 | `Lastest` | `Pending` |
 
 ---
-
-<!---
-AI-CM/AI-CM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
