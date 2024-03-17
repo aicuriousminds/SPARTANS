@@ -65,8 +65,8 @@ Empower humanity for the AI future​
 
 ---
 
-## Volunteers 👐
+## Members 👥
 
-**List:** [Here](General/Volunteers/README.md)
+**List:** [Here](General/Members/README.md)
 
 ---
