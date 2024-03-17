@@ -52,7 +52,7 @@ Empower humanity for the AI future​
 
 | Id | Platform | Link | Responsible |
 | --- | --- | --- | --- |
-| 1 | Discord | `Pending` | `Suman Gupta` |
+| 1 | Discord | [Here](https://discord.gg/pfk5ZGKa) | `Suman Gupta` |
 | 2 | Whatsapp | [Here](https://chat.whatsapp.com/GcoLPpQV58gICfub8JJhGW) | `Jairzinho Santos` |
 
 ---
