@@ -47,3 +47,26 @@ Empower humanity for the AI future​
 | 3 | `Lastest` | `Pending` |
 
 ---
+
+## Communication Channels 📢
+
+| Id | Platform | Link | Responsible |
+| --- | --- | --- | --- |
+| 1 | Discord | `Pending` | `Suman Gupta` |
+| 2 | Whatsapp | [Here](https://chat.whatsapp.com/GcoLPpQV58gICfub8JJhGW) | `Jairzinho Santos` |
+
+---
+
+## Repository 🗂️
+
+| Id | Platform | Link | Responsible |
+| --- | --- | --- | --- |
+| 1 | GitHub | [Here](https://github.com/aicuriousminds/SPARTANS.git) | `Jairzinho Santos` <br> `Pending` |
+
+---
+
+## Volunteers 👐
+
+**List:** [Here](General/Volunteers/README.md)
+
+---
