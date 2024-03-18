@@ -10,7 +10,7 @@
 
 ---
 
-| Id | Name | Email | Volunteer | Social Networks | Introduction |
+| Id | Name | Email | Volunteer | Social Network | Introduction |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Alan Chua | `Pending` | `Yes` | `Pending` | `Pending` |
 | 2 | Hitesh Garg | `Pending` | `Yes` | `Pending` | `Pending` |
