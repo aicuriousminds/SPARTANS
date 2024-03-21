@@ -50,7 +50,7 @@ Empower humanity for the AI future​
 ## Repository 🗂️
 | Id | Platform | Link | Responsible |
 | --- | --- | --- | --- |
-| 1 | GitHub | [Here](https://github.com/aicuriousminds/SPARTANS.git) | `Jairzinho Santos` |
+| 1 | Spartan GitHub | [Here](https://github.com/aicuriousminds/SPARTANS.git) | `Jairzinho Santos` |
 
 <!--
 ## Members 👥
