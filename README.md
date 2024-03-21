@@ -52,5 +52,7 @@ Empower humanity for the AI future​
 | --- | --- | --- | --- |
 | 1 | GitHub | [Here](https://github.com/aicuriousminds/SPARTANS.git) | `Jairzinho Santos` |
 
+<!--
 ## Members 👥
 **List:** [Here](General/Members/README.md)
+-->
