@@ -30,7 +30,7 @@ Empower humanity for the AI future​
 | --- | --- | --- |
 | 1 | `1.0` | [Here](SP/ORACLES_FSP_Q124_v1.0.1.pdf) |
 | 2 | `1.1` | [Here](SP/ORACLES_FSP_Q124_v1.1.2.pdf) |
-| 3 | `Lastest` | `Pending` |
+| 3 | `Lastest` | `soon` |
 
 ## Communication Channels 📢
 | Id | Platform | Link | Responsible |
@@ -38,10 +38,19 @@ Empower humanity for the AI future​
 | 1 | Discord | [Here](https://discord.gg/pfk5ZGKa) | `Suman Gupta` |
 | 2 | Whatsapp | [Here](https://chat.whatsapp.com/GcoLPpQV58gICfub8JJhGW) | `Jairzinho Santos` |
 
+## Social Network 🌐
+| Id | Platform | Link | Responsible |
+| --- | --- | --- | --- |
+| 1 | Linkedin | [Here](https://www.linkedin.com/company/aicuriousminds) | `Cynthia Yip` <br> `Aryan Dhasmana` |
+| 2 | Twitter | [Here](https://twitter.com/aicuriousminds) | `soon` |
+| 3 | Youtube | [Here](https://www.youtube.com/@aicuriousminds) | `soon` |
+| 4 | Instagram | [Here](https://www.instagram.com/aicuriousminds) | `soon` |
+| 5 | TikTok | [Here](https://www.tiktok.com/@aicuriousminds) | `soon` |
+
 ## Repository 🗂️
 | Id | Platform | Link | Responsible |
 | --- | --- | --- | --- |
-| 1 | GitHub | [Here](https://github.com/aicuriousminds/SPARTANS.git) | `Jairzinho Santos` <br> `Pending` |
+| 1 | GitHub | [Here](https://github.com/aicuriousminds/SPARTANS.git) | `Jairzinho Santos` |
 
 ## Members 👥
 **List:** [Here](General/Members/README.md)
