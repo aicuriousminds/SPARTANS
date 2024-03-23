@@ -12,8 +12,10 @@
 ## About Us ℹ️
 We are a dynamic, inclusive community of AI enthusiasts, learners, professionals, passionates and curious minds across the globe. Our community thrives on diversity, exploring the vast realms of artificial intelligence, including Machine Learning, MLOps, Deep Learning, Computer Vision, Natural Language Processing, Large Language Models, Generative AI, Reinforcement Learning, and beyond. Our global members are at the forefront of exchanging cutting-edge knowledge and cultural perspectives, fostering a rich, collaborative environment. 💼 🌍
 
+<!--
 ##  Vision 🔭
 Human-Machine Symbiosis​
+-->
 
 ##  Mission 🚀
 Empower humanity for the AI future​
