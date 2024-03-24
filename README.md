@@ -27,12 +27,14 @@ Empower humanity for the AI future​
 - Knowledge with responsibility.​
 - Ethical Innovation.
 
+<!--
 ## Strategy Plan 📅
 | Id | Version | Link | Description |
 | --- | --- | --- | --- |
 | 1 | `1.0` | [Here](SP/ORACLES_FSP_Q124_v1.0.1.pdf) | First Fast Strategy Plan |
 | 2 | `1.1` | [Here](SP/ORACLES_FSP_Q124_v1.1.2.pdf) | Update Fast Strategy Plan |
 | 3 | `Lastest` | [Here](Presentation/AICM_GS_Q1-2024_v1.0.1.pdf) | First General Welcome Meeting Presentation |
+-->
 
 ## Communication Channels 📢
 | Id | Platform | Link | Responsible |
